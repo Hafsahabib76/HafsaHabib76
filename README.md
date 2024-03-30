@@ -44,5 +44,6 @@
 ![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaHabib76&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHabib76&layout=compact&theme=radical)
 
-
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=HafsaHabib76&color=brightgreen)
 
