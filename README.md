@@ -44,9 +44,6 @@
 ![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaHabib76&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafsaHabib76&layout=compact&theme=radical)
 
-## 🌟 Top Contributed Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?HafsaHabib76)
-
 ##
 ![Profile Views](https://komarev.com/ghpvc/?username=HafsaHabib76&color=brightgreen)
 
