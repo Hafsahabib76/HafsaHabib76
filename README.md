@@ -41,7 +41,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=HafsaHabib76&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsahabib&show_icons=true&theme=radical)
+![Hafsa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HafsaHabib76&show_icons=true&theme=radical)
 
 
 
